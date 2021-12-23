@@ -17,7 +17,7 @@ I'm a UE Game Developer & Programmer, 3D Artist, UI/UX Designer
 - 🔭 I'm currently working on [Primal Dominion: Aftermath](https://store.steampowered.com/app/1639510/Primal_Dominion/).
 - 🌱 I'm currently learning C++, Python aswell as expanding my knowledge in Unreal Engine.
 - 💻 Heavily involved in the 3D Space, anything 3D interests me!
-- 🎥: Check out my youtube channel for random 3D stuff [here](https://www.youtube.com/channel/UCBhBr7rNn8pqbvXHayaU2ww)
+- 🎥 Check out my youtube channel for random 3D stuff [here](https://www.youtube.com/channel/UCBhBr7rNn8pqbvXHayaU2ww)
 
 ***
 
