@@ -18,9 +18,3 @@ I'm a Gameplay Systems Engineer & Software Developer
 - 🎥 Check out my youtube channel for random 3D stuff [here](https://www.youtube.com/channel/UCBhBr7rNn8pqbvXHayaU2ww)
 
 ***
-
-### 🔶 <ins>Software Expertise:</ins>
-- Unreal Engine (4/5)
-- 3D Tools (Blender, Substance, Adobe, etc)
-- VS, IntelliJ, Version Control
-</p>
