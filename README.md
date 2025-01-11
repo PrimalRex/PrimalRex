@@ -11,10 +11,11 @@ I'm a Gameplay Systems Engineer & Software Developer
 
 ### 🔶 <ins>About Me:</ins>
 
-- 🔭 I'm currently working on [Primal Dominion: Aftermath](https://store.steampowered.com/app/1639510/Primal_Dominion/) & [Transience](https://store.steampowered.com/app/2124100/Transience/) .
-- 🌱 I'm currently learning C++, Java, Python aswell as expanding my knowledge in Unreal Engine / Game Dev.
-- 💻 Heavily involved in the 3D Space, anything 3D interests me!
-- 📓 Check out my blog for random 3D stuff [here](https://harrisbarra.medium.com/)
-- 🎥 Check out my youtube channel for random 3D stuff [here](https://www.youtube.com/channel/UCBhBr7rNn8pqbvXHayaU2ww)
+- 🎮 Currently working on [Primal Dominion: Aftermath](https://store.steampowered.com/app/1639510/Primal_Dominion/) and [Transience](https://store.steampowered.com/app/2124100/Transience/).
+- 🌱 Passionate about designing and implementing gameplay systems, AI behaviors, and immersive game mechanics.
+- 💻 Expanding my expertise in C++ and Unreal Engine while exploring other languages like Python and Java.
+- 📓 Sharing my journey and insights in 3D and game development through my blog and my YouTube channel.
+  
+- 🔨 Check out some of my projects and prototypes here on Github!
 
 ***
