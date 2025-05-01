@@ -42,8 +42,8 @@ Check out some of my features work, covering all of what I just mentioned above.
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| 🌴 [**QuadTree Algorithm**](https://github.com/PrimalRex/QuadTree--UE5) | A simple QuadTree algorithm with radial query, built for Unreal Engine 5. | 💻 **Languages:** `C++` |
-| 🎬 [**Box Office Atlas**](https://github.com/PrimalRex/Box-Office-Atlas) | A Visualiser for global box office film performance through a custom DOM scraper against Box Office Mojo to drive figures onto an interactive globe. | 💻 **Languages:** `JavaScript` |
+| 🌴 [**QuadTree Algorithm**](https://github.com/PrimalRex/QuadTree--UE5) | A simple QuadTree algorithm with radial query, built for Unreal Engine 5. | 💻 **Languages:** `C++` • `Unreal Engine UMG` |
+| 🎬 [**Box Office Atlas**](https://github.com/PrimalRex/Box-Office-Atlas) | A Visualiser for global box office film performance through a custom DOM scraper against Box Office Mojo to drive figures onto an interactive globe. | 💻 **Languages:** `JavaScript` • `EJS` • `CSS` |
 | 🦖 [**Fossil Locality Prediction**](https://github.com/PrimalRex/Fossil-Locality-Prediction) | Machine learning on palaeogeography & climatology — my BSc thesis project. | 💻 **Languages:** `Python(Tensorflow, Pandas)`|
 | 🍐 [**Guava Fruit Image Detection**](https://github.com/PrimalRex/GuavaFruitDetection) | Machine learning to detect diseased guava fruit images. | 💻 **Languages:** `Python(Tensorflow, Pandas)`|
 | ⚡ [**Ray Engine**](https://github.com/PrimalRex/Ray-Engine) | A C++ ray tracing engine for learning graphics and rendering pipelines. | 💻 **Languages:** `C++` |
