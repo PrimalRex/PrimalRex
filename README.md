@@ -26,7 +26,7 @@ Along the way, I’ve expanded my skillset by working with:
 
 - **JavaScript**, for building interactive sites and full-stack apps.
 
-- **Tools** like Git, Perforce, NumPy, PyTorch, and more to streamline my workflow.
+- **Tools** like Git, Perforce, IntelliJ, Adobe Cloud Suite, and more to streamline my workflow.
 
 My experience also spans academic AI applications such as my Bsc Project and Diseased Guava Fruit Image Detection.
 I embody a holistic approach, doesn't matter the task, if there's a way, I'll see to it!
