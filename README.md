@@ -12,7 +12,7 @@ I'm a **Gameplay Systems Engineer & Software Developer**, passionate about desig
 
 
 
-I studied Computer Science with a personal commitment on Software Engineering & Artificial Intelligence, and I’ve since dedicated my efforts to developing gameplay mechanics, tools, and systems that bring interactive worlds to life.
+I studied Computer Science with a personal commitment on Software Engineering & Artificial Intelligence, and I've dedicated my efforts to developing gameplay mechanics, tools, and systems that inspire awe through my work.
 
 What I'm currently working on:
 - **[Primal Dominion: Aftermath](https://store.steampowered.com/app/1552190/Primal_Dominion_Aftermath/)** — a tactical dinosaur vs. human first-person-shooter, showcases my holistic skillset in game development.
@@ -82,10 +82,11 @@ Check out some of my features work, covering all of what I just mentioned above.
 ![image](https://github.com/user-attachments/assets/3abee1ef-02c2-43ba-abee-20eebc95740d)
 
 
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/harris-barra-a8b688231/)
-- 📺 [YouTube](https://www.youtube.com/@THEPRIMALREX)
-- 📔 [Blog](https://harrisbarra.medium.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/harris-barra-a8b688231/">LinkedIn</a> |
+  <a href="https://www.youtube.com/@THEPRIMALREX">YouTube</a> |
+  <a href="https://harrisbarra.medium.com">Blog</a>
+</p>
 
 ---
 
