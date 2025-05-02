@@ -1,6 +1,5 @@
-![image](https://github.com/user-attachments/assets/a0017494-3432-498c-b0ea-0fbf591010c8)
 
-
+![welcome](https://github.com/user-attachments/assets/7b38fc78-cbf9-4e0b-9272-a3478420c3f5)
 
 # 👋 Hello, I'm Harris!
 
@@ -8,9 +7,7 @@ I'm a **Gameplay Systems Engineer & Software Developer**, passionate about desig
 
 ---
 
-![image](https://github.com/user-attachments/assets/ffef0dcb-6f3b-44ba-a533-f5b97084dfd0)
-
-
+![whatscooking](https://github.com/user-attachments/assets/3f436d68-90e8-4718-8116-09f58ebf29d4)
 
 I studied Computer Science with a personal commitment on Software Engineering & Artificial Intelligence, and I've dedicated my efforts to developing gameplay mechanics, tools, and systems that inspire awe through my work.
 
@@ -29,7 +26,7 @@ Along the way, I’ve expanded my skillset by working with:
 - **Tools** like Git, Perforce, IntelliJ, Adobe Cloud Suite, and more to streamline my workflow.
 
 My experience also spans academic AI applications such as my Bsc Project and Diseased Guava Fruit Image Detection.
-I embody a holistic approach, doesn't matter the task, if there's a way, I'll see to it!
+I embody a holistic approach, doesn't matter the task, **if there's a way, I'll see to it!**
 
 
 
@@ -38,7 +35,7 @@ I embody a holistic approach, doesn't matter the task, if there's a way, I'll se
 
 ## 🧪 Projects
 
-Check out some of my features work, covering all of what I just mentioned above. Feel free to inspect their README.s
+Check out some of my features work, covering all of what I just mentioned above. Feel free to inspect their README's!
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
@@ -79,7 +76,8 @@ Check out some of my features work, covering all of what I just mentioned above.
 
 ---
 
-![image](https://github.com/user-attachments/assets/3abee1ef-02c2-43ba-abee-20eebc95740d)
+![getintouch](https://github.com/user-attachments/assets/3499b102-2e7d-4204-8f5d-3620e513fcbf)
+
 
 
 <p align="center">
