@@ -35,21 +35,21 @@ I embody a holistic approach, doesn't matter the task, **if there's a way, I'll 
 ---
 
 
-## 🧪 Projects
+
+![projects](https://github.com/user-attachments/assets/9dc89420-e6ee-401c-87f5-58f81ef76be2)
 
 Check out some of my features work, covering all of what I just mentioned above. Feel free to inspect their README's!
 
 | Project| Description | Tech Stack |
 |----------------------------|-------------|------------|
-| 🌴 [**QuadTree&#x2011;Algorithm**](https://github.com/PrimalRex/QuadTree--UE5) | A simple QuadTree algorithm with radial query, subdivision and unsubdivision support - built for Unreal Engine 5. | 💻 **Languages:** `C++` • `Unreal Engine UMG` |
+| 🌴 [**QuadTree&#x2011;Algorithm**](https://github.com/PrimalRex/QuadTree--UE5) | My own implementation of a QuadTree algorithm with radial query, subdivision and unsubdivision support - built for Unreal Engine 5. | 💻 **Languages:** `C++` • `Unreal Engine UMG` |
 | 🎬 [**Box&#x2011;Office&#x2011;Atlas**](https://github.com/PrimalRex/Box-Office-Atlas) | A visualiser for global box office film performance through a custom DOM scraper against Box Office Mojo to drive figures onto an interactive globe. | 💻 **Languages:** `JavaScript` • `EJS` • `CSS` |
-| 🦖 [**Fossil&#x2011;Locality&#x2011;Prediction**](https://github.com/PrimalRex/Fossil-Locality-Prediction) | Machine learning on palaeogeography & climatology — my BSc thesis project. | 💻 **Languages:** `Python(Tensorflow, Pandas)`|
-| [**Guava&#x2011;Fruit&#x2011;Image&#x2011;Detection**](https://github.com/PrimalRex/GuavaFruitDetection) | Machine learning to detect diseased guava fruit images. | 💻 **Languages:** `Python(Tensorflow, Pandas)`|
+| 🦖 [**Fossil&#x2011;Locality&#x2011;Prediction**](https://github.com/PrimalRex/Fossil-Locality-Prediction) | Machine Learning on palaeogeography & climatology to investigate spatio-temporal modelling viability, moreover feasibility in fossil prediction — my BSc thesis project. | 💻 **Languages:** `Python(Tensorflow, Pandas)`|
+| [**Guava&#x2011;Fruit&#x2011;Image&#x2011;Detection**](https://github.com/PrimalRex/GuavaFruitDetection) | Machine Learning to detect and diagnose guava fruit images using a Convolution Neural Network. | 💻 **Languages:** `Python(Tensorflow, Pandas)`|
 | ⚡ [**Ray&#x2011;Engine**](https://github.com/PrimalRex/Ray-Engine) | A C++ ray tracing engine for learning graphics and rendering pipelines. | 💻 **Languages:** `C++` |
-| 🌿 [**ECOLUTION**](https://github.com/Ctrl-Alt-Defeat-24/ECOLUTION) | Carbon tracking and lifestyle web app — developed with a team during my 2nd BSc Year. | 💻 **Languages:** `JavaScript` • `EJS` • `CSS`|
+| 🌿 [**ECOLUTION**](https://github.com/Ctrl-Alt-Defeat-24/ECOLUTION) | Carbon tracking and lifestyle web app — developed with a team during my 2nd BSc year. | 💻 **Languages:** `JavaScript` • `EJS` • `CSS`|
 
-
----
+Want to see more? Feel free to check out my Blog / Youtube to see some extra behind-the-scenes examples!
 
 ---
 
