@@ -42,12 +42,12 @@ Check out some of my features work, covering all of what I just mentioned above.
 
 | Project| Description | Tech Stack |
 |----------------------------|-------------|------------|
-| 🌴 [**QuadTree&#x2011;Algorithm**](https://github.com/PrimalRex/QuadTree--UE5) | My own implementation of a QuadTree algorithm with radial query, subdivision and unsubdivision support - built for Unreal Engine 5. | 💻 **Languages:** `C++` • `Unreal Engine UMG` |
+| 🦖 [**Fossil&#x2011;Locality&#x2011;Prediction**](https://github.com/PrimalRex/Fossil-Locality-Prediction) | Machine Learning on palaeogeography & climatology to investigate spatio-temporal modelling viability, moreover feasibility in fossil prediction. Achieves `80%+` Precision and `25%+` IOU! — my BSc thesis project. | 💻 **Languages:** `Python(Tensorflow, Pandas)`|
+| 🌴 [**QuadTree&#x2011;Algorithm**](https://github.com/PrimalRex/QuadTree--UE5) | My own implementation of a QuadTree algorithm to do radial query, also supports runtime subdivision and unsubdivision support! - built within UE5. | 💻 **Languages:** `C++` • `Unreal Engine UMG` |
 | 🎬 [**Box&#x2011;Office&#x2011;Atlas**](https://github.com/PrimalRex/Box-Office-Atlas) | A visualiser for global box office film performance through a custom DOM scraper against Box Office Mojo to drive figures onto an interactive globe. | 💻 **Languages:** `JavaScript` • `EJS` • `CSS` |
-| 🦖 [**Fossil&#x2011;Locality&#x2011;Prediction**](https://github.com/PrimalRex/Fossil-Locality-Prediction) | Machine Learning on palaeogeography & climatology to investigate spatio-temporal modelling viability, moreover feasibility in fossil prediction — my BSc thesis project. | 💻 **Languages:** `Python(Tensorflow, Pandas)`|
-| [**Guava&#x2011;Fruit&#x2011;Image&#x2011;Detection**](https://github.com/PrimalRex/GuavaFruitDetection) | Machine Learning to detect and diagnose guava fruit images using a Convolution Neural Network. | 💻 **Languages:** `Python(Tensorflow, Pandas)`|
-| ⚡ [**Ray&#x2011;Engine**](https://github.com/PrimalRex/Ray-Engine) | A C++ ray tracing engine for learning graphics and rendering pipelines. | 💻 **Languages:** `C++` |
-| 🌿 [**ECOLUTION**](https://github.com/Ctrl-Alt-Defeat-24/ECOLUTION) | Carbon tracking and lifestyle web app — developed with a team during my 2nd BSc year. | 💻 **Languages:** `JavaScript` • `EJS` • `CSS`|
+| [**Guava&#x2011;Fruit&#x2011;Image&#x2011;Detection**](https://github.com/PrimalRex/GuavaFruitDetection) | Machine Learning to detect and diagnose guava fruit images using a Convolution Neural Network. Achieves `97.12%` Accuracy! | 💻 **Languages:** `Python(Tensorflow, Pandas)`|
+| ⚡ [**Ray&#x2011;Engine**](https://github.com/PrimalRex/Ray-Engine) | A C++ ray tracing engine for learning graphics and rendering pipelines. Renders a static scene and exports to .PPM. | 💻 **Languages:** `C++` |
+| 🌿 [**ECOLUTION**](https://github.com/Ctrl-Alt-Defeat-24/ECOLUTION) | Carbon tracking and lifestyle web app, track routes, calculate emissions, OAuth integration and leaderboards! — developed with a team during my 2nd BSc year. | 💻 **Languages:** `JavaScript` • `EJS` • `CSS`|
 
 Want to see more? Feel free to check out my Blog / Youtube to see some extra behind-the-scenes examples!
 
