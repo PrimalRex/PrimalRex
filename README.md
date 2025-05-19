@@ -3,13 +3,13 @@
 
 # 👋 Hello, I'm Harris!
 
-I'm a **Gameplay Systems Engineer & Software Developer**, passionate about designing and implementing gameplay systems, mechanics, and tools. I love working on anything and everything that interests me, particularly anything that has to do with tools and design!
+I'm a **Game Systems Engineer & Software Developer**, passionate about designing and implementing gameplay systems, mechanics, and tools. I love working on anything and everything that interests me, particularly anything that has to do with tools and design!
 
 ---
 
 ![whatscooking](https://github.com/user-attachments/assets/3f436d68-90e8-4718-8116-09f58ebf29d4)
 
-I studied Computer Science with a personal commitment on Software Engineering & Artificial Intelligence, and I've dedicated my efforts to developing gameplay mechanics, tools, and systems that inspire awe through my work.
+I studied for a BSc in Computer Science with a personal commitment on Software Engineering & Artificial Intelligence, and I've dedicated my efforts to developing gameplay mechanics, tools, and systems that inspire awe through my work.
 
 What I'm currently working on:
 - **[Primal Dominion: Aftermath](https://store.steampowered.com/app/1552190/Primal_Dominion_Aftermath/)** — a tactical dinosaur vs. human first-person-shooter, showcases my holistic skillset in game development.
