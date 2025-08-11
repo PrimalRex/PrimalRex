@@ -10,14 +10,7 @@ I'm a **Game Systems Engineer & Software Developer**, passionate about designing
 
 ![whatscooking](https://github.com/user-attachments/assets/3f436d68-90e8-4718-8116-09f58ebf29d4)
 
-I studied for a BSc in Computer Science with a personal commitment on Software Engineering & Artificial Intelligence, and I've dedicated my efforts to developing gameplay mechanics, tools, and systems that inspire awe through my work.
-
-What I'm currently working on:
-- **[Primal Dominion: Aftermath](https://store.steampowered.com/app/1552190/Primal_Dominion_Aftermath/)** — a tactical dinosaur vs. human first-person-shooter, showcases my holistic skillset in game development.
-- **[Transience](https://store.steampowered.com/app/2124100/Transience/)** — a story-driven first-person stealth shooter, my role involves UI/UX implementation and design.
-- Various small experiments and learning projects.
-
-My engineering roots are grounded in C++ and Unreal Engine, where I build performant and optimised gameplay systems with a focus on scalability and player experience. Whilst I am an Engine Programmer in the day, I moonlight as a relentless idea explorer, I love crafting anything that excites me, no matter the tech stack. Whether it's gameplay systems, dev tools, or experimental projects.
+I studied a BSc in Computer Science with a personal commitment on Software Engineering & Artificial Intelligence, and I've dedicated my efforts to developing gameplay mechanics, tools, and systems that inspire awe through my work.
 
 Along the way, I’ve expanded my skillset by working with:
 
