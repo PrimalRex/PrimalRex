@@ -1,5 +1,6 @@
 
 ![welcome](https://github.com/user-attachments/assets/7b38fc78-cbf9-4e0b-9272-a3478420c3f5)
+![](https://komarev.com/ghpvc/?username=PrimalRex&color=blueviolet)
 
 # 👋 Hello, I'm Harris!
 
@@ -72,12 +73,6 @@ Want to see more? Feel free to check out my Blog / Youtube to see some extra beh
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PrimalRex&show_icons=true&theme=tokyonight" alt="My Stats">
-</p>
-
----
-
 ![getintouch](https://github.com/user-attachments/assets/3499b102-2e7d-4204-8f5d-3620e513fcbf)
 
 
@@ -90,4 +85,5 @@ Want to see more? Feel free to check out my Blog / Youtube to see some extra beh
 
 ---
 
-_Thanks for reading! Feel free to explore my work and don't hesitate to reach out if you have any questions!_
+
+![](https://readme-typing-svg.herokuapp.com/?lines=Thanks+for+reading!;Feel+free+to+explore+my+work+and+don't+hesitate+to+reach+out+if+you+have+any+questions!&font=Helvetica%20Code¢er=true&width=1080&height=50)
