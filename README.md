@@ -25,26 +25,6 @@ Along the way, I’ve expanded my skillset by working with:
 I embody a holistic approach, doesn't matter the task, **if there's a way, I'll see to it!**
 
 
-
----
-
-
-
-![projects](https://github.com/user-attachments/assets/9dc89420-e6ee-401c-87f5-58f81ef76be2)
-
-Check out some of my features work, covering all of what I just mentioned above. Feel free to inspect their README's!
-
-| Project| Description | Tech Stack |
-|----------------------------|-------------|------------|
-| 🦖 [**Fossil&#x2011;Locality&#x2011;Prediction**](https://github.com/PrimalRex/Fossil-Locality-Prediction) | Machine Learning on palaeogeography & climatology to investigate spatio-temporal modelling viability, moreover feasibility in fossil prediction. Achieves `80%+` Precision and `25%+` IOU! — my BSc thesis project. | 💻 **Languages:** `Python(Tensorflow, Pandas)`|
-| 🌴 [**QuadTree&#x2011;Algorithm**](https://github.com/PrimalRex/QuadTree--UE5) | My own implementation of a QuadTree algorithm to do radial query, also supports runtime subdivision and unsubdivision support! - built within UE5. | 💻 **Languages:** `C++` • `Unreal Engine UMG` |
-| 🎬 [**Box&#x2011;Office&#x2011;Atlas**](https://github.com/PrimalRex/Box-Office-Atlas) | A visualiser for global box office film performance through a custom DOM scraper against Box Office Mojo to drive figures onto an interactive globe. | 💻 **Languages:** `JavaScript` • `EJS` • `CSS` |
-| [**Guava&#x2011;Fruit&#x2011;Image&#x2011;Detection**](https://github.com/PrimalRex/GuavaFruitDetection) | Machine Learning to detect and diagnose guava fruit images using a Convolution Neural Network. Achieves `97.12%` Accuracy! | 💻 **Languages:** `Python(Tensorflow, Pandas)`|
-| ⚡ [**Ray&#x2011;Engine**](https://github.com/PrimalRex/Ray-Engine) | A C++ ray tracing engine for learning graphics and rendering pipelines. Renders a static scene and exports to .PPM. | 💻 **Languages:** `C++` |
-| 🌿 [**ECOLUTION**](https://github.com/Ctrl-Alt-Defeat-24/ECOLUTION) | Carbon tracking and lifestyle web app, track routes, calculate emissions, OAuth integration and leaderboards! — developed with a team during my 2nd BSc year. | 💻 **Languages:** `JavaScript` • `EJS` • `CSS`|
-
-Want to see more? Feel free to check out my Blog / Youtube to see some extra behind-the-scenes examples!
-
 ---
 
 ## 🛠 Tech Stack & Tools
@@ -78,5 +58,8 @@ Want to see more? Feel free to check out my Blog / Youtube to see some extra beh
 
 ---
 
+![projects](https://github.com/user-attachments/assets/9dc89420-e6ee-401c-87f5-58f81ef76be2)
+
+Check out some of my features work, covering all of what I just mentioned above.
 
 ![](https://readme-typing-svg.herokuapp.com/?lines=Thanks+for+reading!;Feel+free+to+explore+my+work+and+don't+hesitate+to+reach+out+if+you+have+any+questions!&font=Helvetica%20Code¢er=true&width=1080&height=50)
