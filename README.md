@@ -4,7 +4,7 @@
 
 # 👋 Hello, I'm Harris!
 
-I'm a **Game Systems Engineer & Software Developer**, passionate about designing and implementing gameplay systems, mechanics, and tools. I love working on anything and everything that interests me, particularly anything that has to do with tools and design!
+I'm a **Tools Engineer & Software Developer**, passionate about designing and implementing gameplay systems, mechanics, and tools. I love working on anything and everything that interests me, particularly anything that has to do with tools and design!
 
 ---
 
@@ -33,12 +33,12 @@ I embody a holistic approach, doesn't matter the task, **if there's a way, I'll 
 `C++` • `Python` • `Java` • `JavaScript` • `Blueprint` • `HTML` • `SQL` • `Scripting`
 
 **Game Development**  
-`Unreal Engine` • `Gameplay Programming` • `Replication` • `Networking` • `UMG` • `OOP` • `CCC Systems` • `Optimisation & Profiling` • `3D Math` • `Classical Mechanics` • `Procedural Animation`
+`Unreal Engine` • `Gameplay Programming` • `Replication` • `Networking` • `UMG/Slate` • `OOP` • `CCC Systems` • `Optimisation & Profiling` • `3D Math` • `Classical Mechanics` • `Procedural Animation`
 
 **Data Science & ML**  
 `NumPy` • `Pandas` • `TensorFlow`
 
-**Version Control & Tools**  
+**Version Control & Other Tools**  
 `Perforce` • `Git` • `Plastic SCM` • `GitHub` • `IntelliJ` • `VSCode` • `Visual Studio` • `Jira` • `Trello`
 
 **Web & APIs**  
