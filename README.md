@@ -14,7 +14,7 @@ I studied a BSc in Computer Science with a personal commitment on Software Engin
 
 Along the way, I’ve expanded my skillset by working with:
 
-- **C+_**, my primary language of choice for Games, Tools and Software Development.
+- **C++**, my primary language of choice for Games, Tools and Software Development.
 
 - **Python**, for machine learning, data science, apps and tool scripting.
 
